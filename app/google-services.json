@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "799017976916",
+    "firebase_url": "https://authfirebase-d169a.firebaseio.com",
+    "project_id": "authfirebase-d169a",
+    "storage_bucket": "authfirebase-d169a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799017976916:android:0315c62102ddab81",
+        "android_client_info": {
+          "package_name": "studio.ima.belajar.authfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799017976916-bhoqktvbragih5h2mk0mn6ggocga27hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studio.ima.belajar.authfirebase",
+            "certificate_hash": "dbd16fa38d2e85aee47aedc74488bffae9e8cb96"
+          }
+        },
+        {
+          "client_id": "799017976916-s1mm69ih4hir3a1tiv410t9uh3uguuej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGTBtmX9n_kea4D4KrGw9MnCSbMIKBWUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799017976916-s1mm69ih4hir3a1tiv410t9uh3uguuej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799017976916:android:276ca081076e3647",
+        "android_client_info": {
+          "package_name": "studio.ima.belajar.authfirebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799017976916-pnv6kj58ciermk61mr8jk42d3aqo51rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studio.ima.belajar.authfirebase2",
+            "certificate_hash": "dbd16fa38d2e85aee47aedc74488bffae9e8cb96"
+          }
+        },
+        {
+          "client_id": "799017976916-s1mm69ih4hir3a1tiv410t9uh3uguuej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGTBtmX9n_kea4D4KrGw9MnCSbMIKBWUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799017976916-s1mm69ih4hir3a1tiv410t9uh3uguuej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
